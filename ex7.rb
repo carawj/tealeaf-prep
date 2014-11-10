@@ -1,0 +1,1 @@
+# An Array is an ordered list, a hash is key: value pairs.
